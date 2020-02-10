@@ -6,7 +6,16 @@
 	android:layout_height="match_parent"
 	tools:context=".MainActivity">
 
-
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:background="#FF6347" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="295dp"
+        android:layout_alignParentBottom="true"
+        android:background="#FFFFFF" />
 	<Button
 		android:id="@+id/button"
 		android:layout_width="match_parent"
