@@ -16,4 +16,7 @@
 	<string name="confirm_password">Confirm Password</string>
 	<string name="send_request">Send Request</string>
 	<string name="change_password">Change Password</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to_goplay">Welcome to Goplay</string>
+    <string name="what_is_going_to_happen_tommorow">What is going to happen tommorow ?</string>
 </resources>
